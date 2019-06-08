@@ -1,0 +1,51 @@
+/* Block used products */
+#used-products_block_right ul {list-style-type:none;}
+#used-products_block_right li {
+	float:left;
+	margin-right:20px;
+	padding:10px 0;
+}
+#used-products_block_right li.first {margin-left:30px;}
+
+#used-products_block_right dl {
+	list-style-type:none;
+}
+#used-products_block_right dt {
+	padding:10px 0 0 0;
+	font-weight:bold;
+	font-size:12px;
+	color:#333;
+}
+#used-products_block_right dd,
+#used-products_block_right dd a {
+	color:#666;
+}
+#used-products_block_right dd {
+	padding:0 0 10px 0;
+	border-bottom:1px dotted #ccc;
+
+}
+#used-products_block_right dd.last_item {border:none;}
+#used-products_block_right dd a.lnk_more {
+	padding-right: 10px;
+	font-weight:bold;
+	color:#0088cc;
+	background:url(../img/arrow_right_1.png) no-repeat 100% 4px;
+}
+
+#used-products_block_right p {
+	padding:0;
+	text-align:right;
+}
+
+#used-products_block_right p.title_block, #used-products_block_right h4  {
+	padding:6px 11px;
+	text-align:left;
+}
+#used-products_block_right .button_large {
+	padding:0;
+	border:none;
+	background:none;
+	color:#333;
+}
+#used-products_block_right .button_large:hover {text-decoration:underline}

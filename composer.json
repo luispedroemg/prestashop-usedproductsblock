@@ -1,0 +1,19 @@
+{
+  "name": "prestashop/blockusedproducts",
+  "description": "PrestaShop module blockusedproducts",
+  "homepage": "https://github.com/PrestaShop/blockusedproducts",
+  "license": "AFL - Academic Free License (AFL 3.0)",
+  "authors": [
+    {
+      "name": "Luis Gonçalves",
+      "email": "contact@prestashop.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "type": "prestashop-module"
+}
