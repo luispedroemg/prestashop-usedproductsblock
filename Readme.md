@@ -1,4 +1,4 @@
-# New products block
+# Used products block
 
 ## About
 

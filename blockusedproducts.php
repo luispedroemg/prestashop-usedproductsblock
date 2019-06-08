@@ -88,7 +88,7 @@ class BlockUsedProducts extends Module
 				Configuration::updateValue('USED_PRODUCTS_NBR', (int)($productNbr));
 				if((bool) Tools::getValue('PS_USED_PRODUCT_UPDATE')){
                     $this->updateUsedProducts();
-                    $output .= $this->displayConfirmation($this->l('Product add date was updated'));
+                    $output .= $this->displayWarning($this->l('Product add date was updated'));
                 }
 				$this->_clearCache('*');
 				$output .= $this->displayConfirmation($this->l('Settings updated'));
