@@ -22,4 +22,4 @@
 *  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 *}
-<li><a data-toggle="tab" href="#blockusedproducts" class="blockusedproducts">{l s='Used Products' mod='blockusedproducts'}</a></li>
+<li><a data-toggle="tab" href="#blockusedproducts" class="blockusedproducts">{l s='Produtos Usados' mod='blockusedproducts'}</a></li>
