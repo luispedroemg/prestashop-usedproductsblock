@@ -9,7 +9,7 @@ if (!class_exists('BlockUsedProducts')) {
 
         public function __construct()
         {
-            $this->name = 'BlockUsedProducts';
+            $this->name = 'blockusedproducts';
             $this->tab = 'front_office_features';
             $this->version = '1.10.2';
             $this->author = 'Luís Gonçalves';
